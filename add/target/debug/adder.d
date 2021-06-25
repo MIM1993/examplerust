@@ -1,0 +1,1 @@
+/Users/muyiming/workspace/rustpath/github/examplerust/add/target/debug/adder: /Users/muyiming/workspace/rustpath/github/examplerust/add/add-one/src/lib.rs /Users/muyiming/workspace/rustpath/github/examplerust/add/adder/src/main.rs

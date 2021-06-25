@@ -1,0 +1,11 @@
+/Users/muyiming/workspace/rustpath/github/examplerust/add/target/debug/deps/rand_core-f001d716c40f3466.rmeta: /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/lib.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/error.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/block.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/impls.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/le.rs
+
+/Users/muyiming/workspace/rustpath/github/examplerust/add/target/debug/deps/librand_core-f001d716c40f3466.rlib: /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/lib.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/error.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/block.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/impls.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/le.rs
+
+/Users/muyiming/workspace/rustpath/github/examplerust/add/target/debug/deps/rand_core-f001d716c40f3466.d: /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/lib.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/error.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/block.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/impls.rs /Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/le.rs
+
+/Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/lib.rs:
+/Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/error.rs:
+/Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/block.rs:
+/Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/impls.rs:
+/Users/muyiming/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/rand_core-0.4.2/src/le.rs:
